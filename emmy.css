@@ -375,7 +375,7 @@ header #menu{
 
 .teacher{
     text-align: center;
-    background:url(teachers2.jpg) no-repeat;
+    background:url(mac.jpg) no-repeat;
     background-size: cover;
     background-position: bottom;
 }
@@ -387,7 +387,7 @@ header #menu{
     margin:15rem auto;
 }
 .heading{
-    color: white;
+    color: black;
 }
 /* .contact{
     background:#111;
