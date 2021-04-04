@@ -582,13 +582,17 @@ header #menu{
 
     .teacher p{
         width:auto;
-        max-width: 100% ;
-        height: auto ;
     }
 
     .contact .row .image{
         display: none;
     }
+  
+    img {
+        width: auto ;
+        max-width: 100% ;
+        height: auto ;
+      }
 
 }
 
@@ -601,6 +605,12 @@ header #menu{
     .contact .row form .box{
         width:100%;
     }
+    
+    img {
+        width: auto ;
+        max-width: 100% ;
+        height: auto ;
+      }
 
 }
 .gmail{
