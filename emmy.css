@@ -582,6 +582,8 @@ header #menu{
 
     .teacher p{
         width:auto;
+        max-width: 100% ;
+        height: auto ;
     }
 
     .contact .row .image{
