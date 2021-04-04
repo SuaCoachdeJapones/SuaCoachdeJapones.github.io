@@ -1,5 +1,5 @@
 :root{
-    --gradient:linear-gradient(90deg, #f1310f, #f31268);
+    --gradient:linear-gradient(90deg, #f10f0f, #f34612);
 }
 
 *{
@@ -375,7 +375,7 @@ header #menu{
 
 .teacher{
     text-align: center;
-    background:url(conversation3.jpeg) no-repeat;
+    background:url(teachers2.jpg) no-repeat;
     background-size: cover;
     background-position: bottom;
 }
