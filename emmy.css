@@ -116,15 +116,15 @@ header .navbar ul li a:hover{
     color:#444;
 }
 
-header #login{
+/* header #login{
     font-size: 3rem;
     color:#fff;
     cursor: pointer;
-}
+} */
 
-header #login:hover{
+/* header #login:hover{
     color:#444;
-}
+} */
 
 header #menu{
     font-size: 3rem;
@@ -133,7 +133,7 @@ header #menu{
     display: none;
 }
 
-.login-form{
+/* .login-form{
     height:100%;
     width:100%;
     position: fixed;
@@ -143,9 +143,9 @@ header #menu{
     display: flex;
     align-items: center;
     justify-content: center;
-}
+} */
 
-.login-form.popup{
+/* .login-form.popup{
     top:0;
 }
 
@@ -204,19 +204,19 @@ header #menu{
 
 .login-form form .btn:hover{
     background:#444;
-}
+} */
 
-.login-form form .fa-times{
+/* .login-form form .fa-times{
     position: absolute;
     top:1.5rem; right:2rem;
     font-size: 2.5rem;
     cursor: pointer;
     color:#999;
-}
+} */
 
-.login-form form .fa-times:hover{
+/* .login-form form .fa-times:hover{
     color:#444;
-}
+} */
 
 .home{
     display: flex;
@@ -564,9 +564,9 @@ header #menu{
         color:#f39c12;
     }
 
-    .fa-times{
+    /* .fa-times{
         transform: rotate(180deg);
-    }
+    } */
 
     header .navbar.nav-toggle{
         top:6.4rem;
@@ -601,4 +601,6 @@ header #menu{
     }
 
 }
-
+.gmail{
+    text-transform: lowercase;
+}
