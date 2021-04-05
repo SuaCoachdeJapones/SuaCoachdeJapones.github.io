@@ -452,23 +452,3 @@ header #menu{
 
 
 
-@media (min-width:768px) {
-     .home img {
-        max-width: 240px;
-        max-height: 240px;
-    }
-}
-
-@media (min-width:992px) {
-     .home img {
-        max-width: 314px;
-        max-height: 314px;
-    }
-}
-
-@media (min-width:1200px) {
-    .home img {
-        max-width: 380px;
-        max-height: 380px;
-    }
-}
