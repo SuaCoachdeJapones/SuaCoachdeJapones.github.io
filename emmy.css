@@ -133,7 +133,7 @@ header #menu{
     flex-flow: column;
     background:url(pic.png) no-repeat;
     background-size: cover;
-    background-position: center;
+    background-position: center center;
     background-attachment: fixed;
     position: relative;
     text-align: center;
@@ -373,7 +373,7 @@ header #menu{
 /* media queries  */
 
 @media (max-width:768px){
-
+   
     html{
         font-size: 55%;
     }
