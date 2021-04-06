@@ -307,7 +307,6 @@ header #menu{
     display: flex;
     justify-content: center;
     flex-wrap: wrap;
-    flex-direction: row-reverse;
 }
 
 #icons{
@@ -359,7 +358,7 @@ header #menu{
     background:#111;
     text-align: center;
     font-weight: normal;
-    padding-bottom: 4rem;
+    padding-bottom: 5rem;
 }
 
 .footer .credit a{
@@ -382,7 +381,7 @@ header #menu{
 
 /* media queries  */
 
-@media (max-device-width:768px){
+@media (max-width:768px){
    
     html{
         font-size: 55%;
@@ -444,7 +443,7 @@ header #menu{
 
 }
 
-@media (max-device-width:500px){
+@media (max-width:500px){
 
     html{
         font-size: 50%;
@@ -452,11 +451,6 @@ header #menu{
 
     .contact .row form .box{
         width:100%;
-    }
-
-    header .navbar ul li a.active,
-    header .navbar ul li a:hover{
-        color:black;
     }
 
 }
