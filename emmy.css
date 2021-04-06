@@ -396,7 +396,7 @@ header #menu{
         position: fixed;
         top:-120%; left:0;
         width:100%;
-        background:rgb(68, 68, 68)
+        background:#444;
     }
 
     header .navbar ul{
@@ -417,7 +417,7 @@ header #menu{
 
     header .navbar ul li a.active,
     header .navbar ul li a:hover{
-        color:#f39c12;
+        color:#f312e0;
     }
 
    
