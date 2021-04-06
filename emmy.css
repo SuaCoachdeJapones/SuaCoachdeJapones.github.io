@@ -453,10 +453,10 @@ header #menu{
         width:100%;
     }
 
-    /* header .navbar ul li a.active,
+    header .navbar ul li a.active,
     header .navbar ul li a:hover{
-        color: green;
-    } */
+        color: white;
+    }
 
 }
 .gmail{
