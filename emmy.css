@@ -113,7 +113,7 @@ header .navbar ul li a{
 
 header .navbar ul li a.active,
 header .navbar ul li a:hover{
-    color:black;
+    color:#444;
 }
 
 
@@ -416,7 +416,7 @@ header #menu{
 
     header .navbar ul li a.active,
     header .navbar ul li a:hover{
-        color: purple;
+        color:#f39c12;
     }
 
    
@@ -451,11 +451,6 @@ header #menu{
 
     .contact .row form .box{
         width:100%;
-    }
-
-    header .navbar ul li a.active,
-    header .navbar ul li a:hover{
-        color: pink;
     }
 
 }
