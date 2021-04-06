@@ -310,7 +310,7 @@ header #menu{
 }
 
 #icons{
-    padding: 4rem 0;
+    /* padding: 4rem 0; */
     display: flex;
     justify-content:space-evenly;
     flex-wrap: wrap;
@@ -441,13 +441,6 @@ header #menu{
         display: none;
     }
 
-    #icons{
-        display: flex;
-        justify-content:space-evenly;
-        flex-wrap: wrap;
-        flex-direction: column;
-    }
-
 }
 
 @media (max-width:500px){
@@ -458,13 +451,6 @@ header #menu{
 
     .contact .row form .box{
         width:100%;
-    }
-
-    #icons{
-        display: flex;
-        justify-content:space-evenly;
-        flex-wrap: wrap;
-        flex-direction: column;
     }
 
 }
