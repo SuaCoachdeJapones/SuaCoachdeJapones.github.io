@@ -310,7 +310,7 @@ header #menu{
 }
 
 #icons{
-    /* padding: 4rem 0; */
+    padding: 4rem 0;
     display: flex;
     justify-content:space-evenly;
     flex-wrap: wrap;
@@ -439,6 +439,13 @@ header #menu{
 
     .contact .row .image{
         display: none;
+    }
+
+    #icons{
+        display: flex;
+        justify-content:space-evenly;
+        flex-wrap: wrap;
+        flex-direction: column;
     }
 
 }
