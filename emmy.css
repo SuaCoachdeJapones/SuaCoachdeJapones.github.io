@@ -455,7 +455,7 @@ header #menu{
 
     header .navbar ul li a.active,
     header .navbar ul li a:hover{
-        color: white;
+        color: pink;
     }
 
 }
