@@ -137,8 +137,6 @@ header #menu{
     background-attachment: fixed;
     position: relative;
     text-align: center;
-    width: 100%;
-    height: 62.5%;
 }
 
 .home h1{
@@ -288,6 +286,8 @@ header #menu{
     background:url(mac.jpg) no-repeat;
     background-size: cover;
     background-position: bottom;
+    width: 100%;
+    height: 62.5%;
 }
 
 .teacher p{
