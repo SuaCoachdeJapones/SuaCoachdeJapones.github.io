@@ -453,6 +453,13 @@ header #menu{
         width:100%;
     }
 
+    #icons{
+        display: flex;
+        justify-content:space-evenly;
+        flex-wrap: wrap;
+        flex-direction: column;
+    }
+
 }
 .gmail{
     text-transform: lowercase;
