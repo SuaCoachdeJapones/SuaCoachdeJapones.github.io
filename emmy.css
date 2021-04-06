@@ -454,6 +454,15 @@ header #menu{
         width:100%;
     }
 
+    .teacher img{
+        width: 100%;
+        padding-top: 62.5%;
+        text-align: center;
+        background:url(mac.jpg) no-repeat;
+        background-size: cover;
+        background-position: bottom;
+    }
+
 }
 .gmail{
     text-transform: lowercase;
