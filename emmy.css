@@ -396,7 +396,7 @@ header #menu{
         position: fixed;
         top:-120%; left:0;
         width:100%;
-        background:#444;
+        background:rgb(68, 68, 68)
     }
 
     header .navbar ul{
