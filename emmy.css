@@ -309,6 +309,14 @@ header #menu{
     flex-wrap: wrap;
 }
 
+#icons{
+    padding: 4rem 0;
+    display: flex;
+    justify-content:space-evenly;
+    flex-wrap: wrap;
+    flex-direction: column;
+}
+
 .footer .box-container .box{
     margin:1.5rem;
     text-align: center;
