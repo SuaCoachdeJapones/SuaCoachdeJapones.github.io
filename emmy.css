@@ -113,7 +113,7 @@ header .navbar ul li a{
 
 header .navbar ul li a.active,
 header .navbar ul li a:hover{
-    color:#444;
+    color:red;
 }
 
 
@@ -416,7 +416,7 @@ header #menu{
 
     header .navbar ul li a.active,
     header .navbar ul li a:hover{
-        color:black;
+        color:#f39c12;
     }
 
    
