@@ -428,21 +428,6 @@ header #menu{
     .teacher p{
         width:auto;
     }
-                
-            .teacher{
-                max-width: 768px;
-                margin: 0 auto;
-            }
-
-
-             .teacher img{
-                width: 100%;
-                padding-top: 62.5%;
-                text-align: center;
-                background:url(mac.jpg) no-repeat;
-                background-size: cover;
-                background-position: bottom;
-                         }
 
     .contact .row .image{
         display: none;
@@ -459,22 +444,6 @@ header #menu{
     .contact .row form .box{
         width:100%;
     }
-
-
-                       
-            .teacher{
-                max-width: 500px;
-                margin: 0 auto;
-            }
-
-               .teacher img{
-                   width: 100%;
-                   padding-top: 62.5%;
-                   text-align: center;
-                   background:url(mac.jpg) no-repeat;
-                   background-size: cover;
-                   background-position: bottom;
-               }
 
 }
 .gmail{
