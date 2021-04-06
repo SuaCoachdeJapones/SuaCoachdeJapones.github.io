@@ -381,7 +381,7 @@ header #menu{
 
 /* media queries  */
 
-@media (max-width:768px){
+@media (max-device-width:768px){
    
     html{
         font-size: 55%;
@@ -416,7 +416,7 @@ header #menu{
 
     header .navbar ul li a.active,
     header .navbar ul li a:hover{
-        color:red;
+        color: red;
     }
 
    
