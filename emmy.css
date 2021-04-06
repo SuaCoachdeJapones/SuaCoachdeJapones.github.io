@@ -441,6 +441,13 @@ header #menu{
         display: none;
     }
 
+    #icons{
+        display: flex;
+        justify-content:space-evenly;
+        flex-wrap: wrap;
+        flex-direction: column;
+    }
+
 }
 
 @media (max-width:500px){
