@@ -449,13 +449,6 @@ header #menu{
         flex-direction: column;
     }
 
-    .footer .box-container{
-        display: flex;
-        justify-content: center;
-        flex-wrap: wrap;
-        flex-direction: row-reverse;
-    }
-
 }
 
 @media (max-device-width:500px){
