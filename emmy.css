@@ -451,8 +451,8 @@ header #menu{
     }
 
     .about .content h3{
-        font-size: 3.5rem;
-        color:red;
+        font-size: 3rem;
+        color:#666;
     }
 
 }
@@ -476,8 +476,8 @@ header #menu{
     }
 
     .about .content h3{
-        font-size: 2rem;
-        color:blue;
+        font-size: 3rem;
+        color:#666;
     }
 
 }
