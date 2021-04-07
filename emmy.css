@@ -311,7 +311,7 @@ header #menu{
 }
 
 #icons{
-    padding: 4rem 0;
+    padding-top: 2rem;
     display: flex;
     justify-content:space-evenly;
     flex-wrap: wrap;
@@ -443,6 +443,7 @@ header #menu{
     }
 
     #icons{
+        padding-top: 2rem;
         display: flex;
         justify-content:space-evenly;
         flex-wrap: wrap;
@@ -462,6 +463,7 @@ header #menu{
     }
 
     #icons{
+        padding-top: 2rem;
         display: flex;
         justify-content:space-evenly;
         flex-wrap: wrap;
