@@ -442,12 +442,7 @@ header #menu{
         display: none;
     }
 
-    #icons{
-        display: flex;
-        justify-content:space-evenly;
-        flex-wrap: wrap;
-        flex-direction: column;
-    }
+    
 
     #icons{
         display: flex;
@@ -466,6 +461,13 @@ header #menu{
 
     .contact .row form .box{
         width:100%;
+    }
+
+    #icons{
+        display: flex;
+        justify-content:space-evenly;
+        flex-wrap: wrap;
+        flex-direction: column;
     }
 
 }
