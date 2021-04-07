@@ -44,7 +44,7 @@ section{
     padding:.7rem 3rem;
     font-size: 2rem;
     color:#fff;
-    background:var(--gradient);
+    background:rgba(255, 0, 0, 0.555);
     border-radius: 5rem;
     margin-top: 1rem;
     cursor: pointer;
