@@ -311,7 +311,7 @@ header #menu{
 }
 
 #icons{
-    /* padding: 4rem 0; */
+    padding: 4rem 0;
     display: flex;
     justify-content:space-evenly;
     flex-wrap: wrap;
@@ -442,12 +442,12 @@ header #menu{
         display: none;
     }
 
-    /* #icons{
+    #icons{
         display: flex;
         justify-content:space-evenly;
         flex-wrap: wrap;
         flex-direction: column;
-    } */
+    }
 
 }
 
@@ -461,12 +461,12 @@ header #menu{
         width:100%;
     }
 
-    /* #icons{
+    #icons{
         display: flex;
         justify-content:space-evenly;
         flex-wrap: wrap;
         flex-direction: column;
-    } */
+    }
 }
 .gmail{
     text-transform: lowercase;
