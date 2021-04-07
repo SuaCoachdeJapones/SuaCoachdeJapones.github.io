@@ -442,21 +442,6 @@ header #menu{
         display: none;
     }
 
-    /* #icons{
-        display: flex;
-        justify-content:space-evenly;
-        flex-wrap: wrap;
-        flex-direction: column;
-    } */
-
-    /* #icons{
-        padding: 4rem 0;
-        display: flex;
-        justify-content:space-evenly;
-        flex-wrap: wrap;
-        flex-direction: column;
-    } */
-
 }
 
 @media (max-device-width:500px){
@@ -469,6 +454,12 @@ header #menu{
         width:100%;
     }
 
+    #icons{
+        display: flex;
+        justify-content:space-evenly;
+        flex-wrap: wrap;
+        flex-direction: column;
+    }
 }
 .gmail{
     text-transform: lowercase;
