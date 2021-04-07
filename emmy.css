@@ -459,45 +459,7 @@ header #menu{
 }
 
 
-
-
 @media (max-width:415px){
-
-    html{
-        font-size: 50%;
-    }
-
-    .contact .row form .box{
-        width:100%;
-    }
-
-    #icons{
-        padding: 2rem 0rem 0rem 0rem;
-        display: flex;
-        justify-content:space-around;
-        flex-wrap: wrap;
-        flex-direction: column;
-    } 
-
-    .home{
-        display: flex;
-        align-items: center;
-        justify-content: center;
-        flex-flow: column;
-        background:url(mac.jpg) no-repeat;
-        background-size: cover;
-        background-position: center;
-        background-attachment: fixed;
-        position: relative;
-        text-align: center;
-    }
-
-}
-
-
-
-
-@media (max-width:414px){
 
     html{
         font-size: 50%;
