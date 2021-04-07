@@ -139,7 +139,7 @@ header #menu{
     text-align: center;
 }
 
-.home h1{
+/* .home h1{
     font-size: 6rem;
     color: rgba(255, 255, 255, 0.719);
 }
@@ -149,7 +149,7 @@ header #menu{
     color:white;
     padding:1rem 0;
     width:70rem;
-}
+} */
 
 .home .shape{
     position: absolute;
@@ -495,38 +495,6 @@ header #menu{
 }
 
 
-@media (max-width:376px){
-
-    html{
-        font-size: 50%;
-    }
-
-    .contact .row form .box{
-        width:100%;
-    }
-
-    #icons{
-        padding: 2rem 0rem 0rem 0rem;
-        display: flex;
-        justify-content:space-around;
-        flex-wrap: wrap;
-        flex-direction: column;
-    } 
-
-    .home{
-        display: flex;
-        align-items: center;
-        justify-content: center;
-        flex-flow: column;
-        background:url(iphoneX.jpg) no-repeat;
-        background-size: cover;
-        background-position: center;
-        background-attachment: fixed;
-        position: relative;
-        text-align: center;
-    }
-
-}
 
 
 @media (max-width:414px){
@@ -563,4 +531,69 @@ header #menu{
 }
 
 
+@media (max-width:376px){
+
+    html{
+        font-size: 50%;
+    }
+
+    .contact .row form .box{
+        width:100%;
+    }
+
+    #icons{
+        padding: 2rem 0rem 0rem 0rem;
+        display: flex;
+        justify-content:space-around;
+        flex-wrap: wrap;
+        flex-direction: column;
+    } 
+
+    .home{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        flex-flow: column;
+        background:url(iphoneX.jpg) no-repeat;
+        background-size: cover;
+        background-position: center;
+        background-attachment: fixed;
+        position: relative;
+        text-align: center;
+    }
+
+}
+
+@media (max-width:360px){
+
+    html{
+        font-size: 50%;
+    }
+
+    .contact .row form .box{
+        width:100%;
+    }
+
+    #icons{
+        padding: 2rem 0rem 0rem 0rem;
+        display: flex;
+        justify-content:space-around;
+        flex-wrap: wrap;
+        flex-direction: column;
+    } 
+
+    .home{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        flex-flow: column;
+        background:url(samsungS9.jpg) no-repeat;
+        background-size: cover;
+        background-position: center;
+        background-attachment: fixed;
+        position: relative;
+        text-align: center;
+    }
+
+}
 
