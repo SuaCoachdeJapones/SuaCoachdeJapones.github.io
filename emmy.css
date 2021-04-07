@@ -382,7 +382,7 @@ header #menu{
 
 /* media queries  */
 
-@media (max-device-width:768px){
+@media (max-width:768px){
    
     html{
         font-size: 55%;
@@ -451,7 +451,7 @@ header #menu{
 
 }
 
-@media (max-device-width:500px){
+@media (max-width:500px){
 
     html{
         font-size: 50%;
