@@ -139,7 +139,7 @@ header #menu{
     text-align: center;
 }
 
-.home h1{
+/* .home h1{
     font-size: 6rem;
     color: rgba(255, 255, 255, 0.719);
 }
@@ -149,7 +149,7 @@ header #menu{
     color:white;
     padding:1rem 0;
     width:70rem;
-}
+} */
 
 .home .shape{
     position: absolute;
@@ -479,6 +479,21 @@ header #menu{
         font-size: 3rem;
         color:#666;
     }
+
+    .home{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        flex-flow: column;
+        background:url(iphone8plus.jpg) no-repeat;
+        background-size: cover;
+        background-position: center;
+        background-attachment: fixed;
+        position: relative;
+        text-align: center;
+    }
+    
+
 
 }
 .gmail{
