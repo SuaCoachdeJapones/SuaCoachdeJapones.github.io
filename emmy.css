@@ -442,8 +442,6 @@ header #menu{
         display: none;
     }
 
-    
-
     #icons{
         display: flex;
         justify-content:space-evenly;
