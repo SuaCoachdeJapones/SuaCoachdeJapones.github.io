@@ -450,6 +450,11 @@ header #menu{
         flex-direction: column;
     }
 
+    .about .content h3{
+        font-size: 2rem;
+        color:yellow;
+    }
+
 }
 
 @media (max-width:500px){
