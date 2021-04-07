@@ -131,7 +131,7 @@ header #menu{
     align-items: center;
     justify-content: center;
     flex-flow: column;
-    background:url(aula.jpg) no-repeat;
+    background:url(lenovo2.jpg) no-repeat;
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
@@ -457,7 +457,7 @@ header #menu{
 
 }
 
-@media (max-width:500px){
+@media (max-width:414px){
 
     html{
         font-size: 50%;
@@ -485,7 +485,50 @@ header #menu{
         align-items: center;
         justify-content: center;
         flex-flow: column;
-        background:url(iphone8plus.jpg) no-repeat;
+        background:url(iphonex.jpg) no-repeat;
+        background-size: cover;
+        background-position: center;
+        background-attachment: fixed;
+        position: relative;
+        text-align: center;
+    }
+
+}
+.gmail{
+    text-transform: lowercase;
+}
+
+
+
+ @media (max-width:375px){
+
+    html{
+        font-size: 50%;
+    }
+
+    .contact .row form .box{
+        width:100%;
+    }
+
+    #icons{
+        padding-top: 2rem;
+        display: flex;
+        justify-content:space-evenly;
+        flex-wrap: wrap;
+        flex-direction: column;
+    }
+
+    .about .content h3{
+        font-size: 3rem;
+        color:#666;
+    }
+
+    .home{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        flex-flow: column;
+        background:url(iphoneX.jpg) no-repeat;
         background-size: cover;
         background-position: center;
         background-attachment: fixed;
@@ -495,11 +538,6 @@ header #menu{
     
 
 
-}
-.gmail{
-    text-transform: lowercase;
-}
-
-
+} 
 
 
