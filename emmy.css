@@ -469,6 +469,12 @@ header #menu{
         flex-wrap: wrap;
         flex-direction: column;
     }
+
+    .about .content h3{
+        font-size: 2rem;
+        color:yellow;
+    }
+
 }
 .gmail{
     text-transform: lowercase;
