@@ -453,7 +453,7 @@ header #menu{
         align-items: center;
         justify-content: center;
         flex-flow: column;
-        background:url(cover3.jpg) no-repeat;
+        background:url(cover3.jpeg) no-repeat;
         background-size: cover; 
         background-position: center; 
         background-attachment: fixed;
@@ -492,7 +492,7 @@ header #menu{
         align-items: center;
         justify-content: center;
         flex-flow: column;
-        background:url(cover3.jpg) no-repeat;
+        background:url(cover3.jpeg) no-repeat;
         background-size: cover; 
         background-position: center;
         background-attachment: fixed;
