@@ -131,7 +131,7 @@ header #menu{
     align-items: center;
     justify-content: center;
     flex-flow: column;
-    background:url(cover3.jpg) no-repeat;
+    background:url(cover3.jpeg) no-repeat;
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
@@ -417,7 +417,6 @@ header #menu{
         color:#f39c12;
     }
 
-   
 
     header .navbar.nav-toggle{
         top:6.4rem;
@@ -455,18 +454,11 @@ header #menu{
         justify-content: center;
         flex-flow: column;
         background:url(cover3.jpg) no-repeat;
-        /* background-size: cover;  */
+        background-size: cover; 
         background-position: center; 
         background-attachment: fixed;
         position: relative;
         text-align: center;
-
-        -moz-background-size: cover;
-        -o-background-size: cover;
-        background-size: cover;
-        height:100%;
-        width:100%; 
-       
     }
 
 }
@@ -501,18 +493,11 @@ header #menu{
         justify-content: center;
         flex-flow: column;
         background:url(cover3.jpg) no-repeat;
-        /* background-size: cover; */
+        background-size: cover; 
         background-position: center;
         background-attachment: fixed;
         position: relative;
         text-align: center;
-
-       
-        -moz-background-size: cover;
-        -o-background-size: cover;
-        background-size: cover;
-        height:100%;
-        width:100%; 
     }
 
 }
