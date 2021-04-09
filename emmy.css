@@ -417,6 +417,9 @@ header #menu{
         color:#f39c12;
     }
 
+    .fa-times{
+        transform: rotate(180deg);
+    }
 
     header .navbar.nav-toggle{
         top:6.4rem;
@@ -469,7 +472,7 @@ header #menu{
 
 
 
-@media (max-width:376px){
+@media (max-width:500px){
 
     html{
         font-size: 50%;
