@@ -131,7 +131,7 @@ header #menu{
     align-items: center;
     justify-content: center;
     flex-flow: column;
-    background:url(pink2.jpg) no-repeat;
+    background:url(pic3.png) no-repeat;
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
@@ -451,19 +451,21 @@ header #menu{
         flex-direction: column;
     } 
 
-    /* .home{
+    .home{
         display: flex;
         align-items: center;
         justify-content: center;
         flex-flow: column;
-        background:url(cover3.jpeg) no-repeat;
-        background-size: cover; 
-        background-position: center; 
-        background-attachment: fixed;
+        background:url(pic4.png) no-repeat;/*body {background: #2ccca6 !important; }*/
+        background-size: cover;
+         background-position: center; /*center center */
+        background-attachment: cover; /*scrool*/
         position: relative;
         text-align: center;
-    } */
+    }
 
+
+  
 }
 
 
@@ -489,19 +491,6 @@ header #menu{
         flex-wrap: wrap;
         flex-direction: column;
     } 
-
-    /* .home{
-        display: flex;
-        align-items: center;
-        justify-content: center;
-        flex-flow: column;
-        background:url(cover3.jpeg) no-repeat;
-        background-size: cover; 
-        background-position: center;
-        background-attachment: fixed;
-        position: relative;
-        text-align: center;
-    } */
 
 }
 
