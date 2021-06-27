@@ -43,8 +43,8 @@ section{
 .btn{
     padding:.7rem 3rem;
     font-size: 2rem;
-    color:#fff;
-    background:rgba(255, 0, 0, 0.555);
+    color:rgb(252, 244, 244);
+    background:rgba(79, 236, 17, 0.801);
     border-radius: 5rem;
     margin-top: 1rem;
     cursor: pointer;
@@ -136,7 +136,7 @@ header #menu{
     background-position: center;
     background-attachment: fixed;
     position: relative;
-    text-align: center;
+    text-align: center; 
 }
 
 /* .home h1{
