@@ -510,3 +510,67 @@ header #menu{
 .gmail{
     text-transform: lowercase;
 }
+
+
+.review .box-containerr{
+    display: flex;
+    justify-content: center;
+    padding-top: 4rem;
+    flex-wrap: wrap;
+  }
+  
+  .review .box-containerr .boxx{
+    width:28rem;
+    padding-bottom: 1rem;
+    text-align: center;
+    box-shadow: 0 .3rem .5rem rgba(0,0,0,.3);
+    background:#fff;
+    margin:4rem 2rem;
+  }
+  
+  .review .box-containerr .boxx img{
+    height:8.5rem;
+    width:8.5rem;
+    object-fit: cover;
+    border-radius: 50%;
+    margin-top: -4rem;
+    border:.6rem solid var(--pink);
+    border-left:.6rem solid var(--violet);
+    border-bottom:.6rem solid var(--violet);
+  }
+  
+  .review .box-containerr .boxx h3{
+    font-size: 2rem;
+    color:var(--pink);
+    padding:0 .5rem;
+  }
+  
+  .review .box-containerr .boxx p{
+    font-size: 1.4rem;
+    color:#999;
+    padding:0 1.3rem;
+  }
+  
+  .review .box-containerr .boxx .stars i{
+    font-size: 1.6rem;
+    color:#f39c12;
+    padding:1.3rem .1rem;
+  }
+
+  .review .heading{
+    font-size: 4rem;
+    color:var(--pink);
+    text-align: center;
+    padding:0 1rem;
+    padding-top: 6rem;
+    letter-spacing: .2rem;
+    font-weight: 500;
+  }
+  
+  .review .title{
+    padding:0 1rem;
+    font-size: 2rem;
+    text-align: center;
+    font-weight: 400;
+    color:#aaa;
+  }
