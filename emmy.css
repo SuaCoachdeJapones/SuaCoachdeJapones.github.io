@@ -298,7 +298,7 @@ header #menu{
     font-weight: bold;
     font-style: italic;
     text-transform: uppercase;
-    color: black;
+    color: rgb(0, 0, 0);
     width:65rem;
     margin:10rem auto;
 }
